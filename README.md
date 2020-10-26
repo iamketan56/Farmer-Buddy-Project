@@ -11,6 +11,11 @@
 ![](https://github.com/iamketan56/Farmer-Buddy-Project/blob/main/F6.PNG)
 ![](https://github.com/iamketan56/Farmer-Buddy-Project/blob/main/F7.PNG)
 ![](https://github.com/iamketan56/Farmer-Buddy-Project/blob/main/F8.PNG)
+![](https://github.com/iamketan56/Farmer-Buddy-Project/blob/main/Select%20State.png)
+![](https://github.com/iamketan56/Farmer-Buddy-Project/blob/main/F9.PNG)
+![](https://github.com/iamketan56/Farmer-Buddy-Project/blob/main/Select%20district.png)
+![](https://github.com/iamketan56/Farmer-Buddy-Project/blob/main/F10.PNG)
+![](https://github.com/iamketan56/Farmer-Buddy-Project/blob/main/F11.PNG)
 
 
 
